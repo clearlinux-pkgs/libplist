@@ -7,7 +7,7 @@
 #
 Name     : libplist
 Version  : 2.6.0
-Release  : 3
+Release  : 4
 URL      : https://github.com/libimobiledevice/libplist/releases/download/2.6.0/libplist-2.6.0.tar.bz2
 Source0  : https://github.com/libimobiledevice/libplist/releases/download/2.6.0/libplist-2.6.0.tar.bz2
 Summary  : C++ binding for @PACKAGE_NAME@
